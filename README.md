@@ -12,8 +12,9 @@ const werbet = {
     course:'Análise e Desenvolvimento de Sistemas',
     progresse: '2/5',
   }
-  message:'Programadores e artistas são os únicos profissionais que tem como hobby a própria profissão.
-  – Rafael Lain'
+  message:'Programadores e artistas
+  são os únicos profissionais que tem como hobby
+  a própria profissão. – Rafael Lain'
 }
 ```
 
