@@ -6,12 +6,9 @@
 
 ```js
 const werbet = {
-  variant: 'Dev Front-End',
+  variant: 'Dev Web and Mobile, Front-End',
   since: '2022',
-  studying: {
-    course:'Análise e Desenvolvimento de Sistemas',
-    progresse: '5/5',
-  }
+  formation: 'Análise e Desenvolvimento de Sistemas',
   message:'Programadores e artistas
   são os únicos profissionais que tem como hobby
   a própria profissão.
