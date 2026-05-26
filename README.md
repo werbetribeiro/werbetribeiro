@@ -9,9 +9,9 @@ const werbet = {
   variant: 'Dev Web and Mobile, Front-End',
   since: '2022',
   formation: 'Análise e Desenvolvimento de Sistemas',
-  message:'Programadores e artistas
+  message: 'Programadores e artistas
   são os únicos profissionais que tem como hobby
-  a própria profissão.
+  a própria profissão.'
   – Rafael Lain'
 }
 ```
