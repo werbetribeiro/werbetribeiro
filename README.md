@@ -11,8 +11,7 @@ const werbet = {
   formation: 'Análise e Desenvolvimento de Sistemas',
   message: 'Programadores e artistas
   são os únicos profissionais que tem como hobby
-  a própria profissão.'
-  – Rafael Lain'
+  a própria profissão. – Rafael Lain'
 }
 ```
 
